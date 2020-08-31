@@ -1,0 +1,53 @@
+name: HaliteIV
+channels:
+  - akode
+  - defaults
+dependencies:
+  - atari-py=0.1.1=py36_0
+  - blas=1.0=mkl
+  - brotlipy=0.7.0=py36haf1e3a3_1000
+  - ca-certificates=2020.7.22=0
+  - certifi=2020.6.20=py36_0
+  - cffi=1.14.2=py36hed5b41f_0
+  - chardet=3.0.4=py36_1003
+  - cryptography=3.0=py36hddc9c9b_0
+  - gym=0.10.5=py36_0
+  - idna=2.10=py_0
+  - intel-openmp=2020.2=258
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - libgfortran=3.0.1=h93005f0_2
+  - mkl=2018.0.3=1
+  - mkl_fft=1.0.6=py36hb8a8100_0
+  - mkl_random=1.0.1=py36h5d10147_1
+  - ncurses=6.2=h0a44026_1
+  - numpy=1.14.5=py36h648b28d_4
+  - numpy-base=1.14.5=py36ha9ae307_4
+  - openssl=1.1.1g=h1de35cc_0
+  - pachi-py=0.0.21=py36_0
+  - pip=20.2.2=py36_0
+  - pybox2d=2.3.2=py36_0
+  - pycparser=2.20=py_2
+  - pyglet=1.4.0a1=py36_0
+  - pyopenssl=19.1.0=py_1
+  - pysocks=1.7.1=py36_0
+  - python=3.6.10=hf48f09d_2
+  - readline=8.0=h1de35cc_0
+  - requests=2.24.0=py_0
+  - scipy=1.1.0=py36hf1f7d93_0
+  - setuptools=49.6.0=py36_0
+  - six=1.15.0=py_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tbb=2020.2=h879752b_0
+  - tbb4py=2020.2=py36h879752b_0
+  - tk=8.6.10=hb0a8c7a_0
+  - urllib3=1.25.10=py_0
+  - wheel=0.35.1=py_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+  - pip:
+    - multiagent==0.0.1
+    - numpy-stl==2.11.2
+    - python-utils==2.4.0
+prefix: /usr/local/anaconda3/envs/HaliteIV
